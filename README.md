@@ -1,5 +1,5 @@
 # Description
-This notebook analyzing the content of an E-commerce database. Based on this analysis, We will predict segment for customer.
+Melakukan clustering pada data pelanggan di suatu supermarket dengan menggunakan algoritma k-means.
 # Source
 https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/data
 # Notebook Desc
