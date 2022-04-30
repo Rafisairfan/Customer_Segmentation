@@ -4,12 +4,17 @@ This notebook analyzing the content of an E-commerce database. Based on this ana
 https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/data
 # Notebook Desc
 1. Import Library
+
 Memasukan beberapa library yang dibutuhkan pada data preparation, modeling dan deployment.
-3. Data Understanding
+2. Data Understanding
+
 Memahami karateristik sebuah data dengan melakukan analisis deskriptif
-5. Data Preparation
+3. Data Preparation
+
 Membersihkan data dari missing value dengan menghapus data tersebut dan mengatasi outliers dengan menggunakan z score.
-7. Modeling
+4. Modeling
+
 Melakukan segmentasi pelanggan dengan menggunakan algoritma K-Means yang sebelumnya telah di-encoding dengan menggunakan bantuan algoritma onehotencoder.
-9. Deployment
+5. Deployment
+
 Menampilkan hasil pengelompokan K-Means
